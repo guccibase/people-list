@@ -1,5 +1,5 @@
 import Head from "next/head";
-import List from "../../components/list";
+import List from "../../components/List";
 
 export const getStaticProps = async () => {
   const res = await fetch("https://jsonplaceholder.typicode.com/users");
