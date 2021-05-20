@@ -1,0 +1,10 @@
+.person {
+  background-color: rgb(233, 229, 229);
+  margin: 20px;
+  padding: 20px;
+  border-left: 1px solid rgb(233, 229, 229);
+}
+
+.person:hover {
+  border-left-color: blue;
+}
