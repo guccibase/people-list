@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav>
       <Link href="/" className="logo">
-        <Image src="/basmala.png" width="80" height="100" />
+        <h1>People</h1>
       </Link>
       <span className="nav-links">
         <Link href="/">
