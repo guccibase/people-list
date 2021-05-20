@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import Image from "next/Image";
 export default function Navbar() {
   return (
     <nav>
